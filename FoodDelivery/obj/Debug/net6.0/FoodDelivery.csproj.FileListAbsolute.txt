@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/bin/Debug/net6.0/FoodDelivery
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/bin/Debug/net6.0/FoodDelivery.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/bin/Debug/net6.0/FoodDelivery.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/bin/Debug/net6.0/FoodDelivery.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/bin/Debug/net6.0/FoodDelivery.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/refint/FoodDelivery.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/FoodDelivery.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/FoodDelivery/obj/Debug/net6.0/ref/FoodDelivery.dll

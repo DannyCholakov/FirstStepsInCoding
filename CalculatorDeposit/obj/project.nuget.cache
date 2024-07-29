@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQIlrcPYlm9sqf2MEuFkQBxhFjL27W9A515Zq8czUB2ONYGIDRXBauuBGgLFo6lJJjMRC+q/9jmxuCktM97J+Q==",
+  "success": true,
+  "projectFilePath": "/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/CalculatorDeposit.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

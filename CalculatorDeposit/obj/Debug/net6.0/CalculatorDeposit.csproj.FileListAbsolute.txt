@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/bin/Debug/net6.0/CalculatorDeposit
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/bin/Debug/net6.0/CalculatorDeposit.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/bin/Debug/net6.0/CalculatorDeposit.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/bin/Debug/net6.0/CalculatorDeposit.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/bin/Debug/net6.0/CalculatorDeposit.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/refint/CalculatorDeposit.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/CalculatorDeposit.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/CalculatorDeposit/obj/Debug/net6.0/ref/CalculatorDeposit.dll

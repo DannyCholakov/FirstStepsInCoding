@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/bin/Debug/net6.0/Aquarium
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/bin/Debug/net6.0/Aquarium.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/bin/Debug/net6.0/Aquarium.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/bin/Debug/net6.0/Aquarium.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/bin/Debug/net6.0/Aquarium.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/refint/Aquarium.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/Aquarium.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Aquarium/obj/Debug/net6.0/ref/Aquarium.dll

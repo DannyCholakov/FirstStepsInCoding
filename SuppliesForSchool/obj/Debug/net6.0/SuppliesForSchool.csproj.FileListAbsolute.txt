@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/bin/Debug/net6.0/SuppliesForSchool
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/bin/Debug/net6.0/SuppliesForSchool.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/bin/Debug/net6.0/SuppliesForSchool.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/bin/Debug/net6.0/SuppliesForSchool.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/bin/Debug/net6.0/SuppliesForSchool.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/refint/SuppliesForSchool.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/SuppliesForSchool.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/SuppliesForSchool/obj/Debug/net6.0/ref/SuppliesForSchool.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICnXyQ/NCwHQxIwDStdQEF4I9EWE5CiwrJ3nQXX2agchalLQQA5gsAaapkg79nQs9KoLHj4pTj2jxda0K9twBA==",
+  "success": true,
+  "projectFilePath": "/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/Repainting.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

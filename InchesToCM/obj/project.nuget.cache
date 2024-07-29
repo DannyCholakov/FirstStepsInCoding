@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozzXBQR+Yci69BROvCzF/n0UWSoBd6qpKUW6vSsxPDupVX6ZMp9sjJGjWXSVFhCzTtVO7n36CCtdacw0ck0NCA==",
+  "success": true,
+  "projectFilePath": "/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/InchesToCM.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

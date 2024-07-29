@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/bin/Debug/net6.0/HelloSoftUni
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/bin/Debug/net6.0/HelloSoftUni.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/bin/Debug/net6.0/HelloSoftUni.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/bin/Debug/net6.0/HelloSoftUni.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/bin/Debug/net6.0/HelloSoftUni.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/refint/HelloSoftUni.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/HelloSoftUni.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/HelloSoftUni/obj/Debug/net6.0/ref/HelloSoftUni.dll

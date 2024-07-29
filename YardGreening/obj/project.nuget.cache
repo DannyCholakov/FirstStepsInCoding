@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jUUA9FbV9rugQIymo989f4MS2m1Z7FJhnJYw5rXI5eNerhhkC2G01kyyqr4+pWX+fikJS9dPlg3IASwOw7oXQ==",
+  "success": true,
+  "projectFilePath": "/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/YardGreening/YardGreening.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

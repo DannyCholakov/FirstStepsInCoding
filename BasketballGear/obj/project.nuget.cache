@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F9kF3yLY8CpqlUh7LkAE9q/pHbeSrDuaMToDTbWk46hQhxGD8bOOT6Yk6oBzNhlTBj4plsgxh/abXXCMxcRpg==",
+  "success": true,
+  "projectFilePath": "/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/BasketballGear.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/danielcholakov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

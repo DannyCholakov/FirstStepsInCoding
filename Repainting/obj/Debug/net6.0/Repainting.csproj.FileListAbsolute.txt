@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/bin/Debug/net6.0/Repainting
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/bin/Debug/net6.0/Repainting.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/bin/Debug/net6.0/Repainting.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/bin/Debug/net6.0/Repainting.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/bin/Debug/net6.0/Repainting.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/refint/Repainting.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/Repainting.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/Repainting/obj/Debug/net6.0/ref/Repainting.dll

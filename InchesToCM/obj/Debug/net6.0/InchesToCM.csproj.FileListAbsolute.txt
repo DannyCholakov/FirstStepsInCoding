@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/bin/Debug/net6.0/InchesToCM
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/bin/Debug/net6.0/InchesToCM.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/bin/Debug/net6.0/InchesToCM.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/bin/Debug/net6.0/InchesToCM.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/bin/Debug/net6.0/InchesToCM.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/refint/InchesToCM.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/InchesToCM.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/InchesToCM/obj/Debug/net6.0/ref/InchesToCM.dll

@@ -1,0 +1,14 @@
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/bin/Debug/net6.0/BasketballGear
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/bin/Debug/net6.0/BasketballGear.deps.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/bin/Debug/net6.0/BasketballGear.runtimeconfig.json
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/bin/Debug/net6.0/BasketballGear.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/bin/Debug/net6.0/BasketballGear.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.AssemblyInfoInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.AssemblyInfo.cs
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.csproj.CoreCompileInputs.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/refint/BasketballGear.dll
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.pdb
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/BasketballGear.genruntimeconfig.cache
+/Users/danielcholakov/Projects/SoftUni/DesignBasics/FirstStepsInCoding/BasketballGear/obj/Debug/net6.0/ref/BasketballGear.dll
